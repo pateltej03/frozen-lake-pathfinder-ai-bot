@@ -46,17 +46,20 @@ This project tackles the problem by:
 
     ```bash
     pip install gymnasium
-
     ```
 
 2. Run the solution script:
-   python3 solution.py
+
+    ```bash
+    python3 solution.py
+    ```
 
 ---
 
 ## 📊 Sample Output
 
 Optimal Policy (4x4 Grid):
+
 1 1 1 1
 2 0 2 0
 2 2 2 0
@@ -70,6 +73,13 @@ Legend (actions):
 -   3 = UP
 
 The numbers represent the **best action to take from each grid cell**, forming a complete optimal policy to reach the goal while minimizing the chance of falling into holes.
+
+---
+
+## 📸 Demonstration
+
+**🎮 Policy Learning and Execution – 3 Simulated Runs**  
+<img src="./FrozenLake_1.gif" width="600" title="Frozen Lake RL Simulation">
 
 ---
 
