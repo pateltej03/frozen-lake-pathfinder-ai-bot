@@ -79,7 +79,7 @@ The numbers represent the **best action to take from each grid cell**, forming a
 ## 📸 Demonstration
 
 **🎮 Policy Learning and Execution – 3 Simulated Runs**  
-<img src="./FrozenLake_1.gif" width="600" title="Frozen Lake RL Simulation">
+<img src="./FrozenLake_1.gif" width="800" title="Frozen Lake RL Simulation">
 
 ---
 
